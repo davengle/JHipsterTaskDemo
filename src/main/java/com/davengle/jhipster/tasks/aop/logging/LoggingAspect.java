@@ -29,6 +29,8 @@ public class LoggingAspect {
     public LoggingAspect(Environment env) {
         this.env = env;
     }
+    
+    //This is a test edit
 
     /**
      * Pointcut that matches all repositories, services and Web REST endpoints.
